@@ -12,7 +12,7 @@ Todos os projetos foram desenvolvidos em dupla com Camila Abreu em linguagem de 
 
 <h2> Conteúdo abordado </h2>
 
-- Algoritmos genéticos
-- Algoritmo de Evolução Diferencial
-- Algoritmo de Enxame de Partículas 
+- [Algoritmos genéticos](https://github.com/Roberta-Pereira/computacao-evolucionaria/tree/main/algoritmo-evolucinario)
+- [Algoritmo de Evolução Diferencial](https://github.com/Roberta-Pereira/computacao-evolucionaria/tree/main/evolucao-diferencial)
+- [Algoritmo de Enxame de Partículas](https://github.com/Roberta-Pereira/computacao-evolucionaria/tree/main/enxame-de-particulas)
 
