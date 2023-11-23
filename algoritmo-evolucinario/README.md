@@ -32,7 +32,7 @@ Os conflitos ocorrem quando duas rainhas se encontram na mesma linha ou coluna.
   </tr>
 </table>
 
-<h3> Psedocódigo para solução do problema: </h3>
+<h3> Pseudocódigo para solução do problema: </h3>
 
 ![Pseudocodigo](https://user-images.githubusercontent.com/50178585/214324666-61b21447-366b-4a6e-9c88-4eeb4dec64cf.PNG)
 
