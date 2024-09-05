@@ -1,18 +1,21 @@
-<h1 align="center">  Computação Evolucionária </h1> 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green?style=flat-square)](https://github.com/Roberta-Pereira/computacao-evolucionaria/blob/master/README-pt-br.md)
+![en](https://img.shields.io/badge/lang-en-red?style=flat-square)
 
-Esse repositório contém implementações de algoritmos utilizando conceitos de computação evolucionária para solução de problemas básicos desenvolvidas durante disciplina Computação Evolucionária ofertada pelo Depertamento de Engenharia Elétrica da Universidade Federal de Minas Gerais - UFMG.
+<h1 align="center"> Evolutionary computation </h1> 
 
-Todos os projetos foram desenvolvidos em dupla com Camila Abreu em linguagem de programação Python 3.0
+This repository contains algorithm implementations using evolutionary computation concepts to solve basic problems. These projects were developed as part of the Evolutionary Computation course offered by the Department of Electrical Engineering at the Federal University of Minas Gerais (UFMG).
 
-<h2> Informações gerais sobre disciplina </h2>
+All projects were developed in collaboration with Camila Abreu, using Python 3.0
 
-- Semestre: 2021/2  
-- Professor: Cristiano Leite de Castro
-- Créditos: 2.0
+<h2> General Information </h2>
 
-<h2> Conteúdo abordado </h2>
+- Semester: 2021/2
+- Professors: Cristiano Leite de Castro
+- Credits: 2.0
 
-- [Algoritmos genéticos](https://github.com/Roberta-Pereira/computacao-evolucionaria/tree/main/algoritmo-evolucinario)
-- [Algoritmo de Evolução Diferencial](https://github.com/Roberta-Pereira/computacao-evolucionaria/tree/main/evolucao-diferencial)
-- [Algoritmo de Enxame de Partículas](https://github.com/Roberta-Pereira/computacao-evolucionaria/tree/main/enxame-de-particulas)
+<h2> Covered Topics </h2>
+
+- [Genetic Algorithms](https://github.com/Roberta-Pereira/computacao-evolucionaria/tree/main/algoritmo-evolucinario)
+- [Differential Evolution](https://github.com/Roberta-Pereira/computacao-evolucionaria/tree/main/evolucao-diferencial)
+- [Particle Swarm Ooptimization](https://github.com/Roberta-Pereira/computacao-evolucionaria/tree/main/enxame-de-particulas)
 
